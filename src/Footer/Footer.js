@@ -12,8 +12,7 @@ function Footer() {
 
       <div className="h-card">
 
-        <p className="p-name">Nithya Sree</p>
-        &nbsp;
+        <p className="p-name">SNithya Sree</p>
         <p className="p-country-name">USA</p>
       </div>
     </div>
