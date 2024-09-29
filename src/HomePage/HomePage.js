@@ -44,7 +44,7 @@ function HomePage() {
             '#ff6384',
             '#36a2eb',
             '#fd6b19',
-           
+            // Add more colors if needed
           ],
         }],
       },
